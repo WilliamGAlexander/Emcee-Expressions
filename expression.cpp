@@ -3,6 +3,8 @@
 
 using namespace std; 
 
+//added some comment
+
 constant::constant(int n){
 	
 	this -> num = n;
