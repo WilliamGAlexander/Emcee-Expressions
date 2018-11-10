@@ -5,6 +5,8 @@ using namespace std;
 
 //added some comment
 
+//added some other comment
+
 constant::constant(int n){
 	
 	this -> num = n;
